@@ -1,4 +1,4 @@
-package operaciones.animales;
+package animales;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

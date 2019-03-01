@@ -1,8 +1,10 @@
-package operaciones.animales;
+package animales;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import animales.Animal;
 
 public class AnimalTest {
 

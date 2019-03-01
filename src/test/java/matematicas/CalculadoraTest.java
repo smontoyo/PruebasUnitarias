@@ -1,8 +1,10 @@
-package operaciones.matematicas;
+package matematicas;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import matematicas.Calculadora;
 
 public class CalculadoraTest {
 
