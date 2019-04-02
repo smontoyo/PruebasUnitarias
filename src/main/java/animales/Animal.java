@@ -12,4 +12,10 @@ public class Animal {
 		LOG.log(Level.INFO, ruido);
 		return ruido;
 	}
+	
+	public String silenciarRuido() {
+		String ruido = "Animal sin ruido";
+		LOG.log(Level.INFO, ruido);
+		return ruido;
+	}
 }
