@@ -15,6 +15,8 @@ public class Animal {
 		return ruido;
 	}
 	
+	
+	//Cometario del curso
 	public String silenciarRuido() {
 		String ruido = "Animal sin ruido";
 		LOG.log(Level.INFO, ruido);
