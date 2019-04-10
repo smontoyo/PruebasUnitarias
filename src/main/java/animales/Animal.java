@@ -8,7 +8,7 @@ public class Animal {
 	private static final Logger LOG = Logger.getLogger(Animal.class.getName());
 
 	
-	//Comentario de prueba
+	//Comentario de prueba 1111
 	public String hacerRuido() {
 		String ruido = "Animal hace ruido";
 		LOG.log(Level.INFO, ruido);
@@ -16,7 +16,7 @@ public class Animal {
 	}
 	
 	
-	//Cometario para el metodo silenciar
+	//Cometario para el metodo silenciar 11111
 	public String silenciarRuido() {
 		String ruido = "Animal sin ruido";
 		LOG.log(Level.INFO, ruido);
