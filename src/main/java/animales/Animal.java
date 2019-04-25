@@ -16,7 +16,7 @@ public class Animal {
 	}
 	
 	
-	//Cometario para el metodo silenciar 11111
+	//Cometario para
 	public String silenciarRuido() {
 		String ruido = "Animal sin ruido";
 		LOG.log(Level.INFO, ruido);
